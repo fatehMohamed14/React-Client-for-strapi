@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# 🐱 Cats Blog React App 🐱
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a client app for a backend developped using Strapi [Strapi App](https://github.com/fatehMohamed14/Strapi-Blog).
 
 ## Available Scripts
 
