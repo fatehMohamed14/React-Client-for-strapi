@@ -1,0 +1,27 @@
+.thumbnail {
+  width: 100%;
+  border-radius: 8px;
+  border: yellow 2px solid;
+  box-shadow: yellow 0px 4px 12px;
+  margin: auto;
+}
+
+.Post {
+  padding: 2em;
+  max-width: 500px;
+  margin: auto;
+}
+
+.img-container {
+  position: relative;
+}
+
+.likes {
+  background-color: yellow;
+  padding: 1px;
+  border-radius: 3px;
+  position: absolute;
+  right: 1em;
+  top: 1em;
+  color: dark;
+}
