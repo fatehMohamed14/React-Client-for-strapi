@@ -4,11 +4,14 @@
   border: yellow 2px solid;
   box-shadow: yellow 0px 4px 12px;
   margin: auto;
+  object-fit: cover;
+  max-height: 200px;
 }
 
 .Post {
   padding: 2em;
-  max-width: 500px;
+  width: 340px;
+  height: 200px;
   margin: auto;
 }
 
@@ -17,11 +20,17 @@
 }
 
 .likes {
-  background-color: yellow;
   padding: 1px;
-  border-radius: 3px;
   position: absolute;
-  right: 1em;
-  top: 1em;
-  color: dark;
+  background-color: yellow;
+  right: 0.5em;
+  top: 0.5em;
+  width: 36px;
+  color: orangered;
+  height: 36px;
+  text-align: center;
+  border-radius: 50%;
+  font-size: 15px;
+  font-weight: 400;
+  border: solid 1px orange;
 }
